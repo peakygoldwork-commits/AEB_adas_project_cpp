@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 # AEB_adas_project_cpp
-# AEB_adas_project_cpp
-# AEB_adas_project_cpp
-# AEB_adas_project_cpp
 =======
 # Autoware - the world's leading open-source software project for autonomous driving
 
@@ -102,7 +99,6 @@ If you wish to use Autoware.AI, the previous version of Autoware based on ROS 1,
 - [Autoware Foundation homepage](https://www.autoware.org/)
 - [Support guidelines](https://autowarefoundation.github.io/autoware-documentation/main/support/support-guidelines/)
 - [CI metrics](https://autowarefoundation.github.io/autoware-ci-metrics/)
-# autoware_adas_project_cpp
-# autoware_adas_project_c
+
 >>>>>>> b62b49f11218073ddfeb463671335302545d1d8b
 # AEB_adas_project_cpp
